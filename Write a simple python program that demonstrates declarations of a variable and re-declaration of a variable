@@ -1,0 +1,4 @@
+A = 372
+print(" print the declare value-", A)
+B = 234
+print(" print the re-declare value-", B)
